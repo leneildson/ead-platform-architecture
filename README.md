@@ -1,14 +1,19 @@
-# ead-platform-architecture
+# EAD Platform Architecture Resources
 
-A intençao deste repositório é disponibilizar os assets para criaçao da arquitetura abaixo.
 
 
 # Como utilizar o CloudFormation
 
+- Acesse o recurso CloudFormation na console
+- Clique em Create Stack
 ![imagem](images/criar01.png)
+- Selecione "Upload a template file"
 ![imagem](images/criar02.png)
+- Preencha o nome da Stack e os parametros que serão utilizados no template
 ![imagem](images/criar03.png)
+- Em Stack Options, clique em Next.
 ![imagem](images/criar04.png)
+- Agora basta acompanhar os recursos serem criados no console
 ![imagem](images/criar05.png)
 # VPC
 
